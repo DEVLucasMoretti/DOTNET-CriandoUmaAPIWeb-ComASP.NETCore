@@ -9,6 +9,7 @@
 
 </ul>
 
+
 <h1>Aprendizado do Curso</h1>
 Durante o curso, adquiri conhecimentos valiosos sobre a integração de bancos de dados em aplicações .NET, com foco na utilização do SQL Server e do Entity Framework.
 <br>
